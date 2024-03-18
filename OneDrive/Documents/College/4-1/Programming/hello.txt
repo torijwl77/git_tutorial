@@ -1,7 +1,15 @@
 <<<<<<< HEAD
 1 line
-2 line
+Second line
+3 line
+<<<<<<< Updated upstream
 =======
 1 Line
-2 Line
+Second line
+3 line
 >>>>>>> 7dbbe2a (First commit from new_branch)
+=======
+1 line
+Second line
+3 line
+>>>>>>> Stashed changes
